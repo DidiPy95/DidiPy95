@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning some advanced python tips
 - 💞️ I’m looking to collaborate on some begineer or intermediate level projects
-- 📫 How to reach me : ceddarbali@gmail.com
+- 📫 How to reach me : chouaib.derbali@gmail.com
 
 <!---
 DidiPy95/DidiPy95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
